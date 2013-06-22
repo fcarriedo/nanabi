@@ -99,6 +99,8 @@ header {
   width:270px;
   float:left;
   position:fixed;
+  padding: 60px 0px 0px 55px;
+  background: url('/assets/images/nanabi-title-bg.png') no-repeat;
 }
 
 header ul {
