@@ -242,9 +242,9 @@ footer {
   body {
     padding:15px;
   }
-  
-  header ul {
-    display:none;
+
+  header {
+    padding: 60px 0px 0px 55px;
   }
 }
 
