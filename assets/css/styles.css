@@ -198,10 +198,6 @@ footer {
     width:auto;
   }
   
-  header {
-    padding-right:320px;
-  }
-  
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
@@ -224,15 +220,11 @@ footer {
   body {
     word-wrap:break-word;
   }
-  
-  header {
-    padding:0;
-  }
-  
+
   header ul, header p.view {
     position:static;
   }
-  
+
   pre, code {
     word-wrap:normal;
   }
@@ -241,10 +233,6 @@ footer {
 @media print, screen and (max-width: 480px) {
   body {
     padding:15px;
-  }
-
-  header {
-    padding: 60px 0px 0px 55px;
   }
 }
 
