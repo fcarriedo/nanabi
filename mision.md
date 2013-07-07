@@ -59,4 +59,3 @@ es necesario seguirse preparando y actualizándose en todo lo referente al
 servicio que ofrecemos para poder adquirir mayores herramientas para lograr un
 trabajo más integral y efectivo.
 
-abc
