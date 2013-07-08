@@ -103,62 +103,40 @@ header {
   background: url('/assets/images/nanabi-title-bg.png') no-repeat;
 }
 
-header ul {
-  list-style:none;
-  height:40px;
-  
-  padding:0;
-  
-  background: #eee;
-  background: -moz-linear-gradient(top, #f8f8f8 0%, #dddddd 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
-  background: -webkit-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
-  background: -o-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
-  background: -ms-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
-  background: linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
-  
-  border-radius:5px;
-  border:1px solid #d2d2d2;
-  box-shadow:inset #fff 0 1px 0, inset rgba(0,0,0,0.03) 0 -1px 0;
-  width:270px;
+nav {
+  margin-top: 25px;
 }
 
-header li {
-  width:89px;
-  float:left;
-  border-right:1px solid #d2d2d2;
+nav ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+nav li {
   height:40px;
 }
 
-header ul a {
-  line-height:1;
-  font-size:11px;
+nav li:hover {
+}
+nav li:hover a {
+}
+
+nav ul a {
   color:#999;
-  display:block;
-  text-align:center;
-  padding-top:6px;
-  height:40px;
+}
+
+nav ul a:hover {
+  font-weight: bold;
+  color: #914471;
+}
+
+nav label {
+  display: none;
 }
 
 strong {
   color:#222;
   font-weight:700;
-}
-
-header ul li + li {
-  width:88px;
-  border-left:1px solid #fff;
-}
-
-header ul li + li + li {
-  border-right:none;
-  width:89px;
-}
-
-header ul a strong {
-  font-size:14px;
-  display:block;
-  color:#222;
 }
 
 section, article {
@@ -205,14 +183,32 @@ footer {
     margin:0 0 20px;
   }
   
-  header a small {
-    display:inline;
+  nav label {
+    margin-left: -55px;
+    padding: 5px;
+    text-align: center;
+    display: block;
+    border: 1px solid #e5e5e5;
   }
-  
-  header ul {
-    position:absolute;
-    right:50px;
-    top:52px;
+
+  nav label:active {
+    color: white;
+    background-color: #914471;
+  }
+
+  nav ul {
+    padding-top: 15px;
+    margin: 0px;
+    height: 0px;
+    overflow: hidden;
+    transition: height 0.3s ease-in-out;
+    -webkit-transition: height 0.3s ease-in-out;
+  }
+
+  nav ul.opened {
+    height: 120px;
+    transition: height 0.3s ease-in-out;
+    -webkit-transition: height 0.3s ease-in-out;
   }
 }
 
