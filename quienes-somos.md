@@ -7,7 +7,7 @@ layout: default
 
 
 
-![mi imagen](assets/images/yo.jpg)
+![mi imagen](assets/images/Pau.jpg)
 
 ## Lic. Paulina Carriedo Hernández
 
