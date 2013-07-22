@@ -99,6 +99,7 @@ header {
   width:270px;
   float:left;
   position:fixed;
+  margin-left: -55px;
   padding: 60px 0px 0px 55px;
   background: url('/assets/images/nanabi-title-bg.png') no-repeat;
 }
@@ -168,6 +169,10 @@ footer {
   div.wrapper {
     width:auto;
     margin:0;
+  }
+
+  header {
+	margin: 0px;
   }
   
   header, section, article, footer {
