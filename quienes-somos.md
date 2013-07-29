@@ -15,10 +15,7 @@ layout: default
 
 
 
-
-
-
-![mi imagen](assets/images/Pau.jpg)     
+ 
 
 
 
@@ -45,7 +42,13 @@ Pienso que el trabajo personal hace que la teoría se materialice en cada uno y 
 
 
 
-![mi imagen](assets/images/gabyj.jpg)
+
+
+
+
+
+
+
   
 
 
