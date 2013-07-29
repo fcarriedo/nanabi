@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## NANABI: Nuestra Madre
+
 
 
 ## MISION
@@ -15,12 +15,12 @@ Cada mamá con la orientación y asesoramiento de NANABI podrá vivir consciente
 
 
 
-### VALORES
+## VALORES
 
 Trabajamos y apoyamos con respeto, empatía, confidencialidad, ética y honestidad, capacitándonos constantemente para dar un servicio integral y efectivo. 
 
 
-#### SERVICIO Y COMPROMISO 
+## SERVICIO Y COMPROMISO 
 
 Brindamos el acompañamiento y apoyo necesarios para facilitar la vinculación entre padres y bebés, así como la asesoría necesaria para desarrollar la confianza en las actividades de crianza.
 
