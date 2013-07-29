@@ -7,9 +7,7 @@ layout: default
 
 
 
-**Somos madres, mujeres, hijas, esposas, hermanas, amigas, compañeras y deseamos acompañarte desde nuestra vivencia y experiencia en este tránsito tan importante.**
-
-
+**Somos madres, mujeres, hijas, esposas, hermanas, amigas, compañeras capacitadas y deseamos acompañarte desde nuestra vivencia y experiencia en este tránsito tan importante.**
 
 
 
@@ -41,6 +39,7 @@ Pienso que el trabajo personal hace que la teoría se materialice en cada uno y 
   * Curso Psicoprofiláctico.
   
   
+
 
 
 
