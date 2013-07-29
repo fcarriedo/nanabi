@@ -13,7 +13,7 @@ layout: default
 
 
 
-![mi imagen](assets/images/Pau.jpg)  
+![mi imagen](assets/images/Pauult.jpg)  
 
  
 
@@ -42,7 +42,7 @@ Pienso que el trabajo personal hace que la teoría se materialice en cada uno y 
 
 
 
-![mi imagen](assets/images/gabyj.jpg)  
+![mi imagen](assets/images/gabyjult.jpg)  
 
 
 
